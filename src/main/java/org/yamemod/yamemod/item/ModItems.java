@@ -15,7 +15,7 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, YameMod.MOD_ID);
 
     public static final RegistryObject<Item> RUBY = ITEMS.register("ruby",
-                    () -> new Item(new Item.Properties().tab(ItemGroup.TAB_MATERIALS)));
+                    () -> new Item(new Item.Properties().tab(ModItemGroup.YAME_GROUP)));
 
 
     public static void register(IEventBus eventBus) {
