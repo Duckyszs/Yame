@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  "#S#",
+    "S#S",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "yamemod:ruby"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "yamemod:ruby_ore"
+  }
+}
