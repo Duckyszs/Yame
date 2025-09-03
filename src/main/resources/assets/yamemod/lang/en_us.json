@@ -2,5 +2,6 @@
   "item.yamemod.ruby": "Ruby",
   "block.yamemod.ruby_ore": "Ruby ore",
   "block.yamemod.ruby_block": "Ruby Block",
-  "itemGroup.yameModTab": "Yame"
+  "itemGroup.yameModTab": "Yame",
+  "item.yamemode.firestar": "Fire star"
 }
