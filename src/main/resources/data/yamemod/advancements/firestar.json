@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "yamemod:firestar"
+    },
+    "title": {
+      "text": "You did it!!"
+    },
+    "description": "",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "inve": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "yamemod:firestar"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": []
+}
